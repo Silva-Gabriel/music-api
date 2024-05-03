@@ -25,3 +25,7 @@ C:\Users\Aluno\Desktop\Dev\Projects\music-api\music.Api\obj\Debug\net6.0\refint\
 C:\Users\Aluno\Desktop\Dev\Projects\music-api\music.Api\obj\Debug\net6.0\music.Api.pdb
 C:\Users\Aluno\Desktop\Dev\Projects\music-api\music.Api\obj\Debug\net6.0\music.Api.genruntimeconfig.cache
 C:\Users\Aluno\Desktop\Dev\Projects\music-api\music.Api\obj\Debug\net6.0\ref\music.Api.dll
+C:\Users\Aluno\Desktop\Dev\Projects\music-api\music.Api\bin\Debug\net6.0\net6.0\appsettings.Development.json
+C:\Users\Aluno\Desktop\Dev\Projects\music-api\music.Api\bin\Debug\net6.0\net6.0\appsettings.json
+C:\Users\Aluno\Desktop\Dev\Projects\music-api\music.Api\bin\Debug\net6.0\net6.0\music.Api.deps.json
+C:\Users\Aluno\Desktop\Dev\Projects\music-api\music.Api\bin\Debug\net6.0\net6.0\music.Api.runtimeconfig.json

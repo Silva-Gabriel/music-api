@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
 namespace music.Api.Controllers
@@ -10,6 +6,10 @@ namespace music.Api.Controllers
     [Route("api/[controller]")]
     public class MusicController : ControllerBase
     {
-        
+        [HttpGet]
+        public async Task<int> GetMusicAsync()
+        {
+            return await Task.FromResult(1);
+        }
     }
 }
