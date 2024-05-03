@@ -7,9 +7,17 @@ namespace music.Api.Controllers
     public class MusicController : ControllerBase
     {
         [HttpGet]
-        public async Task<int> GetMusicAsync()
+        public async Task<IEnumerable<Dictionary<long, string>>> GetMusicAsync()
         {
-            return await Task.FromResult(1);
+            var musics = new List
+            {
+                new Dictionary<long, string>
+                {
+                    {1, "Sweet Child'O mine"},
+                    {2, "Teste"}
+                }
+            };
+            return await musics;
         }
     }
 }
