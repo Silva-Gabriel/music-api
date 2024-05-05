@@ -1,0 +1,15 @@
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Infrastructure\bin\Debug\net6.0\music.Infrastructure.deps.json
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Infrastructure\bin\Debug\net6.0\music.Infrastructure.dll
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Infrastructure\bin\Debug\net6.0\music.Infrastructure.pdb
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Infrastructure\bin\Debug\net6.0\music.Domain.dll
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Infrastructure\bin\Debug\net6.0\music.Domain.pdb
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Infrastructure\obj\Debug\net6.0\music.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Infrastructure\obj\Debug\net6.0\music.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Infrastructure\obj\Debug\net6.0\music.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Infrastructure\obj\Debug\net6.0\music.Infrastructure.AssemblyInfo.cs
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Infrastructure\obj\Debug\net6.0\music.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Infrastructure\obj\Debug\net6.0\music.Infrastructure.csproj.CopyComplete
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Infrastructure\obj\Debug\net6.0\music.Infrastructure.dll
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Infrastructure\obj\Debug\net6.0\refint\music.Infrastructure.dll
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Infrastructure\obj\Debug\net6.0\music.Infrastructure.pdb
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Infrastructure\obj\Debug\net6.0\ref\music.Infrastructure.dll
