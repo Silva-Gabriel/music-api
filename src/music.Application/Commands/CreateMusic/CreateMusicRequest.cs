@@ -16,6 +16,6 @@ namespace music.Application.Commands.CreateMusic
 
         [Required]
         [JsonPropertyName("release_date")]
-        public DateTime ReleasDate { get; set; }
+        public DateTime ReleaseDate { get; set; }
     }
 }

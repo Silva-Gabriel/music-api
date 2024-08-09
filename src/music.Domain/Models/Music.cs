@@ -19,6 +19,9 @@ namespace music.Domain.Models
 
         [Required]
         [JsonPropertyName("release_date")]
-        public DateTime ReleasDate { get; set; }
+        public DateTime ReleaseDate { get; set; }
+
+        [JsonPropertyName("active")]
+        public bool Active { get; set; }
     }
 }

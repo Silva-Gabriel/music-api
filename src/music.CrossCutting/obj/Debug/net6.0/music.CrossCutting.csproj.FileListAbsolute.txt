@@ -15,3 +15,20 @@ C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.CrossCutti
 C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.CrossCutting\obj\Debug\net6.0\refint\music.CrossCutting.dll
 C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.CrossCutting\obj\Debug\net6.0\music.CrossCutting.pdb
 C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.CrossCutting\obj\Debug\net6.0\ref\music.CrossCutting.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\obj\Debug\net6.0\music.CrossCutting.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\obj\Debug\net6.0\refint\music.CrossCutting.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\obj\Debug\net6.0\music.CrossCutting.pdb
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\bin\Debug\net6.0\music.CrossCutting.deps.json
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\bin\Debug\net6.0\music.CrossCutting.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\bin\Debug\net6.0\music.CrossCutting.pdb
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\bin\Debug\net6.0\music.Domain.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\bin\Debug\net6.0\music.Infrastructure.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\bin\Debug\net6.0\music.Infrastructure.pdb
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\bin\Debug\net6.0\music.Domain.pdb
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\obj\Debug\net6.0\music.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\obj\Debug\net6.0\music.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\obj\Debug\net6.0\music.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\obj\Debug\net6.0\music.CrossCutting.AssemblyInfo.cs
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\obj\Debug\net6.0\music.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\obj\Debug\net6.0\music.CrossCutting.csproj.CopyComplete
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.CrossCutting\obj\Debug\net6.0\ref\music.CrossCutting.dll

@@ -20,8 +20,11 @@ namespace music.Infrastructure.Repository
                                     ID {nameof(Music.Id)},
                                     NAME {nameof(Music.Name)}, 
                                     SINGER {nameof(Music.SingerName)}, 
-                                    RELEASE_DATE {nameof(Music.ReleasDate)},
-                                    ATIVO {nameof(Music.Ativo)}
+                                    RELEASE_DATE {nameof(Music.ReleaseDate)},
+                                    CASE
+                                        WHEN ACTIVE = '1' THEN 1
+                                        ELSE 0
+                                    END {nameof(Music.Active)}
                                 FROM dbo.TB_MUSIC";
         
             return await Connection.QueryAsync<Music>(query);
@@ -34,7 +37,7 @@ namespace music.Infrastructure.Repository
             var parameters = new DynamicParameters();
             parameters.Add("name", music.Name);
             parameters.Add("singer", music.SingerName);
-            parameters.Add("date", music.ReleasDate);
+            parameters.Add("date", music.ReleaseDate);
 
             return await Connection.ExecuteAsync(query, parameters);
         }

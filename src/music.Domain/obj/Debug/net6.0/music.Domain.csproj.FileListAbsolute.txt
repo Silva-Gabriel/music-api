@@ -10,3 +10,15 @@ C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Domain\obj
 C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Domain\obj\Debug\net6.0\refint\music.Domain.dll
 C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Domain\obj\Debug\net6.0\music.Domain.pdb
 C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\music-api\src\music.Domain\obj\Debug\net6.0\ref\music.Domain.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Domain\bin\Debug\net6.0\music.Domain.deps.json
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Domain\bin\Debug\net6.0\music.Domain.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Domain\bin\Debug\net6.0\music.Domain.pdb
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Domain\obj\Debug\net6.0\music.Domain.csproj.AssemblyReference.cache
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Domain\obj\Debug\net6.0\music.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Domain\obj\Debug\net6.0\music.Domain.AssemblyInfoInputs.cache
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Domain\obj\Debug\net6.0\music.Domain.AssemblyInfo.cs
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Domain\obj\Debug\net6.0\music.Domain.csproj.CoreCompileInputs.cache
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Domain\obj\Debug\net6.0\music.Domain.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Domain\obj\Debug\net6.0\refint\music.Domain.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Domain\obj\Debug\net6.0\music.Domain.pdb
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Domain\obj\Debug\net6.0\ref\music.Domain.dll

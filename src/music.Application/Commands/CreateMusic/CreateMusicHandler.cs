@@ -18,7 +18,7 @@ namespace music.Application.Commands.CreateMusic
             {
                 Name = request.Name,
                 SingerName = request.SingerName,
-                ReleasDate = request.ReleasDate
+                ReleaseDate = request.ReleaseDate
             };
 
             await Repository.PostMusicLibrary(response);

@@ -1,0 +1,36 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": ".NET Core Launch (web)",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "C:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Api\\bin\\Debug\\net6.0\\music.Api.dll", // Substitua pelo caminho para o seu DLL
+        "args": [],
+        "cwd": "C:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Api",
+        "stopAtEntry": false,
+        "env": {
+          "ASPNETCORE_ENVIRONMENT": "Development"
+        },
+        "launchBrowser": {
+          "enabled": false,
+          "args": "${auto-detect-url}",
+          "windows": {
+            "command": "cmd.exe",
+            "args": "/c start ${auto-detect-url}"
+          },
+          "osx": {
+            "command": "open",
+            "args": "${auto-detect-url}"
+          },
+          "linux": {
+            "command": "xdg-open",
+            "args": "${auto-detect-url}"
+          }
+        },
+        "requireExactSource": false
+      }
+    ]
+  }
+  

@@ -2009,19 +2009,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\potte\\.nuget\\packages\\": {}
+    "C:\\Users\\g.da.silva.santana\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\potte\\OneDrive\\Área de Trabalho\\Code\\C#\\music-api\\src\\music.Domain\\music.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Domain\\music.Domain.csproj",
       "projectName": "music.Domain",
-      "projectPath": "C:\\Users\\potte\\OneDrive\\Área de Trabalho\\Code\\C#\\music-api\\src\\music.Domain\\music.Domain.csproj",
-      "packagesPath": "C:\\Users\\potte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\potte\\OneDrive\\Área de Trabalho\\Code\\C#\\music-api\\src\\music.Domain\\obj\\",
+      "projectPath": "C:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Domain\\music.Domain.csproj",
+      "packagesPath": "C:\\Users\\g.da.silva.santana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\potte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\g.da.silva.santana\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2066,7 +2066,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.421\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\g.da.silva.santana\\Desktop\\dev\\tools\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
       }
     }
   }
