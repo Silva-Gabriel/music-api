@@ -16,7 +16,12 @@ namespace music.Infrastructure.Repository
 
         public async Task<IEnumerable<Music>> GetMusicsLibrary()
         {
-            string query = $@"  SELECT ID {nameof(Music.Id)},NAME {nameof(Music.Name)} , SINGER {nameof(Music.SingerName)}, RELEASE_DATE {nameof(Music.ReleasDate)}
+            string query = $@"  SELECT 
+                                    ID {nameof(Music.Id)},
+                                    NAME {nameof(Music.Name)}, 
+                                    SINGER {nameof(Music.SingerName)}, 
+                                    RELEASE_DATE {nameof(Music.ReleasDate)},
+                                    ATIVO {nameof(Music.Ativo)}
                                 FROM dbo.TB_MUSIC";
         
             return await Connection.QueryAsync<Music>(query);

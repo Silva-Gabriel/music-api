@@ -30,7 +30,7 @@ namespace music.Api.Controllers
             {
                 Name = request.Name,
                 SingerName = request.SingerName,
-                ReleasDate = request.ReleasDate
+                ReleaseDate = request.ReleaseDate
             });
             
             return Ok();
