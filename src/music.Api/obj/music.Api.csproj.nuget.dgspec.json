@@ -171,8 +171,8 @@
               "C:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Domain\\music.Domain.csproj": {
                 "projectPath": "C:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Domain\\music.Domain.csproj"
               },
-              "c:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Infrastructure\\music.Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Infrastructure\\music.Infrastructure.csproj"
+              "C:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Infrastructure\\music.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Infrastructure\\music.Infrastructure.csproj"
               }
             }
           }
@@ -275,14 +275,14 @@
         }
       }
     },
-    "c:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Infrastructure\\music.Infrastructure.csproj": {
+    "C:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Infrastructure\\music.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Infrastructure\\music.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Infrastructure\\music.Infrastructure.csproj",
         "projectName": "music.Infrastructure",
-        "projectPath": "c:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Infrastructure\\music.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Infrastructure\\music.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\g.da.silva.santana\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\g.da.silva.santana\\Desktop\\dev\\projects\\C#\\music-api\\src\\music.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\g.da.silva.santana\\AppData\\Roaming\\NuGet\\NuGet.Config"
