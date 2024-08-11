@@ -1,4 +1,5 @@
 using MediatR;
+using music.Domain.Models.Response;
 using music.Domain.Repository;
 
 namespace music.Application.Commands.CreateMusic
@@ -14,15 +15,20 @@ namespace music.Application.Commands.CreateMusic
         
         public async Task<CreateMusicResponse> Handle(CreateMusicRequest request, CancellationToken cancellationToken)
         {
-            var response = new Domain.Models.Music
+            var result = await Repository.PostMusicLibrary(new Domain.Models.Music
             {
                 Name = request.Name,
                 SingerName = request.SingerName,
+                StyleId = request.StyleId,
                 ReleaseDate = request.ReleaseDate
-            };
+            });
 
-            await Repository.PostMusicLibrary(response);
-            return await Task.FromResult(new CreateMusicResponse());
+            if(result <= 0)
+            {
+                return ApiResponse.ErrorResponse<CreateMusicResponse>(System.Net.HttpStatusCode.InternalServerError, "0002", "Não foi possível criar a música");
+            }
+
+            return ApiResponse.CreatedResponse<CreateMusicResponse>();
         }
     }
 }

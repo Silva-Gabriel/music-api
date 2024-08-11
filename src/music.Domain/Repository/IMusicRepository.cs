@@ -6,5 +6,6 @@ namespace music.Domain.Repository
     {
         Task<IEnumerable<Music>> GetMusicsLibrary();
         Task<int> PostMusicLibrary(Music music);
+        Task<Music> GetMusicById(long id);
     }
 }
