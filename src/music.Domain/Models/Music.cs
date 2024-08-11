@@ -21,6 +21,10 @@ namespace music.Domain.Models
         [JsonPropertyName("release_date")]
         public DateTime ReleaseDate { get; set; }
 
+        [Required]
+        [JsonPropertyName("style_id")]
+        public int StyleId { get; set; }
+
         [JsonPropertyName("active")]
         public bool Active { get; set; }
     }

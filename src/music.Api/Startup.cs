@@ -17,6 +17,13 @@ namespace music.Api
             services.AddControllers();
             services.AddMediator();
             services.AddRepository(Configuration);
+            services.AddLogging(loggingBuilder =>
+            {
+                loggingBuilder.ClearProviders();
+                loggingBuilder.AddConsole();
+                loggingBuilder.AddDebug();
+                loggingBuilder.SetMinimumLevel(LogLevel.Debug);
+            });
             services.AddEndpointsApiExplorer();
             services.AddSwaggerGen(c =>
             {

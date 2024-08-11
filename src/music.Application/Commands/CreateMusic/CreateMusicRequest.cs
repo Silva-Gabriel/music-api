@@ -17,5 +17,9 @@ namespace music.Application.Commands.CreateMusic
         [Required]
         [JsonPropertyName("release_date")]
         public DateTime ReleaseDate { get; set; }
+
+        [Required]
+        [JsonPropertyName("style_id")]
+        public int StyleId { get; set; }
     }
 }

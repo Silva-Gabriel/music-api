@@ -12,8 +12,9 @@ namespace music.CrossCutting.DependecyInjection
         public static IServiceCollection AddRepository(this IServiceCollection services, IConfiguration configuration)
         {
             var connectionString = configuration.GetSection("DBConfig")["ConnectionString"];
-            services.AddSingleton<IDbConnection>(provider => new SqlConnection(connectionString));
+            services.AddScoped<IDbConnection>(provider => new SqlConnection(connectionString));
             services.AddScoped<IMusicRepository, MusicRepository>();
+
             return services;
         }
     }

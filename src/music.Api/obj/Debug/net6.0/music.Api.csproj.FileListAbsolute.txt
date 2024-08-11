@@ -211,3 +211,15 @@ C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\obj\
 C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\obj\Debug\net6.0\music.Api.csproj.CopyComplete
 C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\obj\Debug\net6.0\music.Api.genruntimeconfig.cache
 C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\obj\Debug\net6.0\ref\music.Api.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\g.da.silva.santana\Desktop\dev\projects\C#\music-api\src\music.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
